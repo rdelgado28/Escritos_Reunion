@@ -1,4 +1,4 @@
-###Conservación de la trucha de Conchos: historia de su descubrimiento e informe sobre su estado
+[###Conservación de la trucha de Conchos: historia de su descubrimiento e informe sobre su estado](https://repositories.lib.utexas.edu/bitstream/handle/2152/22233/Conchos_trout_white_paper_April_13_2006_general.pdf?sequence=3&isAllowed=y)
 
 Truchas Mexicanas, 2006
 
