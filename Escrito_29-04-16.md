@@ -9,3 +9,4 @@ Tz Chun Guo, Amr Ahmed Abdelrahim Gamil, Melanie Koenig, y Øystein Evensen
 
 
 <center>![](https://raw.githubusercontent.com/rdelgado28/Escritos_Reunion/master/arbol.jpg)</center>
+Fig. 1. Árbol filogenético de los receptores EP4 de diferentes especies.
