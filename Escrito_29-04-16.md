@@ -10,4 +10,5 @@ Las prostaglandinas (PG) son metabolitos del ácido araquidónico (AA) que reali
 
 
 <center>![](https://raw.githubusercontent.com/rdelgado28/Escritos_Reunion/master/arbol.jpg)</center>
+
 Fig. 1. Árbol filogenético de los receptores EP4 de diferentes especies.
